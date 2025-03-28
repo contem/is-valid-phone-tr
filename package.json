@@ -1,0 +1,19 @@
+{
+  "name": "is-valid-phone-tr",
+  "version": "1.0.0",
+  "description": "Validator for Turkish mobile phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "phone",
+    "validator",
+    "gsm",
+    "turkey",
+    "mobile",
+    "telefon"
+  ],
+  "author": "Yunus Emre Buğuş <contem.fe@gmail.com>",
+  "license": "MIT"
+}
